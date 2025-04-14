@@ -34,7 +34,7 @@ import SwiftUI
 
 struct ByeView: View {
   var body: some View {
-    Text("Hello again, World!")
+    Text("안녕, World!")
   }
 }
 
